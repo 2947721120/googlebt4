@@ -1,4 +1,4 @@
-## Table of contents
+## 目录
 
 * [Overview](#overview)
 * [Quick start](#quick-start)
@@ -13,11 +13,13 @@
 * [Acknowledgements](#acknowledgements)
 
 
-## Overview ##
+## 概述##
 
-This is a Google-styled theme for Bootstrap. Because I'm a fan of the new Google UI seen in Gmail, Docs, Calendar, etc, I decided to reproduce
-the look of these new UI elements for my own personal use. The project's goal isn't UI parity with Google Apps -- it's feature parity with
-Bootstrap, themed with Google's UI in mind.
+这是一个谷歌风格的主题为引导。因为我喜欢谷歌新的UI在Gmail、文档、日历等，我决定重现
+
+这些新的用户界面元素为我个人使用。该项目的目标是不与谷歌应用程序的用户界面比价-它的功能平价
+
+Bootstrap，主题与谷歌的用户界面。
 
 TODC Bootstrap was created by [Tim O'Donnell](https://github.com/todc), and maintained with the support and involvement of the community.
 
